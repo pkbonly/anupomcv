@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700');
+body,ul,li {
+	padding:0;
+	margin:0;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 300;
+}
+.container {
+	width: 80%;
+	padding:10px;
+	margin:0 auto;
+	overflow: hidden;
+	background: #ecf0f1;
+}
+h3,h4,h2 {
+		color:#2c3e50;
+}
+.header {
+    border-bottom: 4px solid #95a5a6;
+    overflow: hidden;
+}
+.header img {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+
+}
+.header .profile-pic {
+    float: left;
+    margin-right: 20px;
+}
+.header .name {
+    overflow: hidden;
+    float: left;
+}
+.header .name h3 {
+    font-size: 40px;
+    margin: 0;
+}
+.header .name p {
+    font-size: 16px;
+    margin: 0;
+}
+.header .email {
+    overflow: hidden;
+    float: right;
+}
+.header .email p {
+    margin: 5px;
+}
+.object-option {
+	float: left;
+	width:25%;
+}
+.object-description {
+	overflow: hidden;
+	width:75%;
+}
+.work-option {
+	float: left;
+	width:25%;
+}
+.work-description {
+	overflow: hidden;
+	width:75%;
+}
+.keyskill-option {
+	float: left;
+	width:25%;
+}
+.keyskill-description {
+	overflow: hidden;
+	width:75%;
+}
+.keyskill .keyskill1 {
+	float:left;
+	width:33%;
+}
+.keyskill .keyskill2 {
+	float:left;
+	width:33%;
+	overflow: hidden;
+}
+.keyskill .keyskill3 {
+	float:left;
+	width:33%;
+	overflow: hidden;
+}
+.Education-option {
+	float: left;
+	width:25%;
+}
+.Education-description {
+	overflow: hidden;
+	width:75%;
+}
+.lastname {
+	margin-left:5px;
+}
+button {
+    margin-left: 62px;
+}
